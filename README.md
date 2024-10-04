@@ -28,7 +28,7 @@ Check out the live demo of the app [here](https://todo-app-react-123.netlify.app
 ## 🛠️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Ashwin-MB97/todo-app.git
 
 2. Navigate to the project directory:
    cd todo-app
@@ -39,9 +39,9 @@ Check out the live demo of the app [here](https://todo-app-react-123.netlify.app
 4. Start the development server:
    npm run dev
 
-📸 Screenshots
+## 📸 Screenshots
 ![Todo App Screenshot](https://github.com/Ashwin-MB97/todo-app/blob/main/todo1.png)
 ![Todo App Screenshot](https://github.com/Ashwin-MB97/todo-app/blob/main/todo2.png)
 ![Todo App Screenshot](https://github.com/Ashwin-MB97/todo-app/blob/main/todo3.png)
 
-Made with ❤️ using React, Vite, and Tailwind CSS.
+## Made with ❤️ using React, Vite, and Tailwind CSS.
