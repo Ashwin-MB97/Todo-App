@@ -40,6 +40,8 @@ Check out the live demo of the app [here](https://todo-app-react-123.netlify.app
    npm run dev
 
 📸 Screenshots
-![Todo App Screenshot](./screenshot.png)
+![Todo App Screenshot](https://github.com/Ashwin-MB97/todo-app/blob/main/todo1.png)
+![Todo App Screenshot](https://github.com/Ashwin-MB97/todo-app/blob/main/todo2.png)
+![Todo App Screenshot](https://github.com/Ashwin-MB97/todo-app/blob/main/todo3.png)
 
 Made with ❤️ using React, Vite, and Tailwind CSS.
