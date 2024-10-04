@@ -4,7 +4,7 @@ A simple and efficient Todo app built using **React** with **Vite** and styled w
 
 ## 🌐 Live Demo
 
-Check out the live demo of the app [here](https://your-live-link.com) 🌟.
+Check out the live demo of the app [here](https://todo-app-react-123.netlify.app) 🌟.
 
 ## 🌟 Features
 
